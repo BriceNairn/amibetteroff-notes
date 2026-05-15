@@ -2,10 +2,10 @@
 > An Exercise of Internet Archaeology, Conservation & Resurrection
 
 ## About me
-I personally have worked a cumlative 5.5 years on contract, and while this helped me build a home deposit in my 20s, it wasn't all smooth sailing. 
+I personally have worked a cumulative 5.5 years on contract, and while this helped me build a home deposit in my 20s, it wasn't all smooth sailing. 
 Every year while on contract the business enforced mandatory Christmas shutdowns which meant as a contractor I wasn't getting paid, and there was more mental pressure around giving myself a break and going on leave.
 
-Early I was often confronted with the un-easy feeling of not knowing whether my contract would be renewed or not, but it is something I adjusted to after the 2nd year of rolling 6-month and 12-month contracts. 
+Early I was often confronted with the uneasy feeling of not knowing whether my contract would be renewed or not, but it is something I adjusted to after the 2nd year of rolling 6-month and 12-month contracts. 
 I was blind-sided when my contract was not renewed in the 5th year. 
 Which happened just after I was hit by and struggling with recovery, and had moved out for the first time and undertaken a mortgage.
 
@@ -18,7 +18,7 @@ I came across an online calculator that I had found on some Australian finance s
   MoneyHead.app was not maintained by its creator
   It is now serving malware and nefarious spam).
   
-  >You can view the orignal site through the internet archive [wayback machine](https://web.archive.org/web/20230501000000*/moneyhead.app).
+  >You can view the original site through the internet archive [wayback machine](https://web.archive.org/web/20230501000000*/moneyhead.app).
 
 
 
