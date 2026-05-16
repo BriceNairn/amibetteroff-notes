@@ -27,7 +27,7 @@ I knew the restored utility was inherently useful and would also be useful for o
 
 
 <p align="center">
-  <img src="../images/excel_interface.png" alt="Excel Interface" width="500">
+  <img src="../images/excel_backend.png" alt="Excel Interface" width="500">
 </p>
 
 > *Screenshot of my spreadsheet backend logic.*
