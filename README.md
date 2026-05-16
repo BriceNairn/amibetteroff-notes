@@ -1,7 +1,13 @@
-# AmIBetterOff Developer Notes
+# AmIBetterOff.au Developer Notes
 
-Public developer notes for:
-**[AmIBetterOff.au](https://amibetteroff.au)**
+
+**Public developer notes for [AmIBetterOff.au](https://amibetteroff.au)**
+A contractor vs. permanent salary calculator for the Australian market.
+
+
+🛠️ Project Stats: 400+ hours of development | 🚀 Hosted on Cloudflare | 🇦🇺 Built for Aussie Professionals.
+
+---
 
 This repository documents:
 
