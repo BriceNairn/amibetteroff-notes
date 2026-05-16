@@ -18,13 +18,21 @@ I built out the core financial tax logic with formulas and conditional nested IF
 
 I knew the restored utility was inherently useful and would also be useful for others as well.
 
-In the image below is my front facing results sheet. 
 
->*IMG*
+<p align="center">
+  <img src="../images/excel_interface.png" alt="Excel Interface" width="500">
+</p>
 
-In this image you can see the back page logic sheet.
+> *Screenshot of my spreadsheet interface.*
 
->*IMG*
+
+<p align="center">
+  <img src="../images/excel_interface.png" alt="Excel Interface" width="500">
+</p>
+
+> *Screenshot of my spreadsheet backend logic.*
+
+
 
 
 Once it was working, I was already concerned that I would use it and lose it in my archaic personal file storage.
