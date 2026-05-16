@@ -20,7 +20,10 @@ This repository documents:
 - [The Why](posts/post_1_the_why.md)
 - [Build 0](posts/post_2_build_0.md)
 - [Tech Stack](posts/post_3_tech_stack.md)
-- [WIP](posts/wip.md)
+- [UI/UX Design & Development](posts/post_4_ui_ux.md)
+- [Infrastructure Design](posts/post_5_infrastructure_design.md)
+- [Liability & Review](posts/post_6_liability_and_review.md)
+- [Launch & Feedback](posts/post_7_launch_and_feedback.md)
 
 
 ### SEO Lessons
