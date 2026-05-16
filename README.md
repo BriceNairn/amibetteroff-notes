@@ -1,7 +1,7 @@
 # AmIBetterOff Developer Notes
 
 Public developer notes for:
-https://amibetteroff.au
+**[AmIBetterOff.au](https://amibetteroff.au)**
 
 This repository documents:
 
@@ -16,7 +16,16 @@ This repository documents:
 ---
 
 ## Posts
+### Building AmIBetterOff
+- [The Why](posts/post_1_the_why.md)
+- [Build 0](posts/post_2_build_0.md)
+- [Tech Stack](posts/post_3_tech_stack.md)
+- [WIP](posts/wip.md)
 
-- [Building AmIBetterOff](posts/building-amibetteroff.md)
-- [SEO Lessons](posts/seo-lessons.md)
-- [Cloudflare Deployment Notes](posts/cloudflare-notes.md)
+
+### SEO Lessons
+- [WIP](posts/wip.md)
+
+
+### Cloudflare deployment
+- [WIP](posts/wip.md)
