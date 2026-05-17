@@ -35,7 +35,7 @@ A contractor vs. permanent salary calculator for the Australian market.
 * ~~[Deployment mistakes]~~ — Enforcing Https.
 
 ### 📋 Current Site Metrics
-* ~~[Site Performance]~~ — Google Search Console & Cloudflare Analytics.
+* [Site Performance](./posts/performance.md) — Google Search Console & Cloudflare Analytics.
 * ~~[Site Analytics]~~ — A plan to further implement site interaction analytics. 
 
 ---
