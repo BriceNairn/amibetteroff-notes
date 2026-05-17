@@ -1,4 +1,4 @@
-# 1 — The Why
+# The Why
 > An Exercise of Internet Archaeology, Conservation & Resurrection
 
 ## About me
