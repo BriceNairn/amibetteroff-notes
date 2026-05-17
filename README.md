@@ -13,14 +13,14 @@ A contractor vs. permanent salary calculator for the Australian market.
 ## Developer Notes
 
 ### ⛰️ The Journey
-* [The Why](./posts/the-why.md) — Why I built this calculator.
-* [Build 0](./posts/build-0.md) — Getting the initial MVP off the ground.
+* [The Why](./posts/the_why.md) — Why I built this calculator.
+* [Build 0](./posts/build_0.md) — Getting the initial MVP off the ground.
 
 ### 🛠️ Technical Decisions
-* [Tech Stack](./posts/tech-stack.md) — Choosing a high-performance stack for local calculations.
+* [Tech Stack](./posts/tech_stack.md) — Choosing a high-performance stack for local calculations.
+* [Infrastructure Design](./posts/infra_design.md) — Architecture choices for speed and low cost.
 * [UI/UX Design](./posts/ui_ux.md) — Designing a clean, intuitive financial comparison view.
-* [Infrastructure Design](./posts/infrastructure_design.md) — Architecture choices for speed and low cost.
-* [Cloudflare Deployment](./posts/cloudflare.md) — Configuration and edge hosting.
+* ~~[Cloudflare Deployment](./posts/cloudflare.md)~~ — Configuration and edge hosting.
 
 ### 📈 Marketing & Legal
 * ~~[SEO Lessons]~~(./posts/seo-lessons.md) — Ranking for Australian salary terms.
@@ -28,9 +28,10 @@ A contractor vs. permanent salary calculator for the Australian market.
 * [Compliance & Liability](./posts/compliance.md) — Handling financial calculation disclaimers.
 
 ### 🚀 Launch
-* [Launch & Feedback](./posts/launch_and_feedback.md) — Driving organic search growth through Reddit.
-* ~~[Deployment mistakes]()~~ — Http vs Https.
+* [Launch & Feedback](./posts/launch.md) — Driving organic search growth through Reddit.
+* ~~[Feedback](./posts/launch.md)~~ — Feedback on launch.
 * ~~[Future Features]()~~ — Planned Features & Fixes.
+* ~~[Deployment mistakes]()~~ — Http vs Https.
 
 ### 📋 Current Site Metrics
 * ~~[Site Performance]()~~ — Google Search Console & Cloudflare Analytics.
