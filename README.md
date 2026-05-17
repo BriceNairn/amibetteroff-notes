@@ -23,7 +23,7 @@ A contractor vs. permanent salary calculator for the Australian market.
 * ~~[Cloudflare Deployment](./posts/cloudflare.md)~~ — Configuration and edge hosting.
 
 ### 📈 Marketing & Legal
-* ~~[SEO Lessons]~~(./posts/seo-lessons.md) — Ranking for Australian salary terms.
+* ~~[SEO Lessons](./posts/seo-lessons.md)~~ — Ranking for Australian salary terms.
 * ~~[Open Graph]()~~ — Designing for engagement and sharing.
 * [Compliance & Liability](./posts/compliance.md) — Handling financial calculation disclaimers.
 
