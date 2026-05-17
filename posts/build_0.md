@@ -1,4 +1,4 @@
-# 2 — Build Zero
+# Build Zero
 >First implementation of core logic
 
 This was the starting point of developing **[AmIBetterOff.au](https://amibetteroff.au)**
