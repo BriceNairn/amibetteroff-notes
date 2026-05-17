@@ -1,4 +1,4 @@
-# Tech Stack
+# Tooling
 >The Dev Tools
 
 On the other end of this experience and as the project grew I now have a greater appreciation for frameworks!
@@ -6,9 +6,6 @@ On the other end of this experience and as the project grew I now have a greater
 
 Complexity grows quickly and it’s easy to loose track of which part does what in one giant html file.
 
-
-## Tech Stack
-**Pure HTML, CSS and Javascript**.
 
 
 >I didn’t use a framework because I was focusing on rapid iteration
