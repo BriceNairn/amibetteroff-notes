@@ -1,4 +1,4 @@
-# 4 — UI/UX
+# UI/UX
 ## Designing the UI
 
 
