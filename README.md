@@ -14,7 +14,7 @@ A contractor vs. permanent salary calculator for the Australian market.
 
 ### ⛰️ The Journey
 * [The Why](./posts/the_why.md) — Why I built this calculator.
-* [Build 0](./posts/build_0.md) — Spreadsheeting core logic.
+* [Build Zero](./posts/build_0.md) — Spreadsheeting core logic.
 * ~~[Using AI]~~ — Building a flawed MVP.
 * [UI/UX Design](./posts/ui_ux.md) — Designing a clean, intuitive UI/UX.
 * ~~[Building a brand]~~ — Picking a name and registering a domain.
