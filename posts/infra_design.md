@@ -1,4 +1,4 @@
-# 5 — Infrastructure Design
+# Infrastructure Design
 ## Building Lean
 
 I went with this cheap hacked together solution because I’m operating with next to 0 budget, 0 income and this site would be relying on a donation / free service model where it’s not likely I’m going to see much money coming in,
