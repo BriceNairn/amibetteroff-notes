@@ -14,12 +14,14 @@ A contractor vs. permanent salary calculator for the Australian market.
 
 ### ⛰️ The Journey
 * [The Why](./posts/the_why.md) — Why I built this calculator.
-* [Build 0](./posts/build_0.md) — Getting the initial MVP off the ground.
+* [Build 0](./posts/build_0.md) — Speadsheeting core logic.
+* ~~[Using AI]()~~ — Building a flawed MVP.
+* [UI/UX Design](./posts/ui_ux.md) — Designing a clean, intuitive UI/UX.
+* ~~[Building a brand]()~~ — Picking a name and registering a domain.
 
 ### 🛠️ Technical Decisions
 * [Tech Stack](./posts/tech_stack.md) — Choosing a high-performance stack for local calculations.
 * [Infrastructure Design](./posts/infra_design.md) — Architecture choices for speed and low cost.
-* [UI/UX Design](./posts/ui_ux.md) — Designing a clean, intuitive financial comparison view.
 * ~~[Cloudflare Deployment](./posts/cloudflare.md)~~ — Configuration and edge hosting.
 
 ### 📈 Marketing & Legal
@@ -36,12 +38,6 @@ A contractor vs. permanent salary calculator for the Australian market.
 ### 📋 Current Site Metrics
 * ~~[Site Performance]()~~ — Google Search Console & Cloudflare Analytics.
 * ~~[Site Analytics]()~~ — A plan to further implement site interaction analytics. 
+
 ---
 
-> old links
-> - [The Why](posts/the_why.md)
-> - [Build 0](posts/build_0.md)
-> - [Tech Stack](posts/tech_stack.md)
-> - [UI/UX Design & Development](posts/ui_ux.md)
-> - [Infrastructure Design](posts/infrastructure_design.md)
-> - [Liability & Review](posts/liability_and_review.md)
