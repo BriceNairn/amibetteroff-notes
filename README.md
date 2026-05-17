@@ -29,17 +29,17 @@ A contractor vs. permanent salary calculator for the Australian market.
 * [The Why](./posts/the_why.md) — Why I built this calculator.
 * [Build Zero](./posts/build_0.md) — Spreadsheeting core logic.
 * ~~[Using AI]~~ — Building a flawed MVP.
+* [Tooling](./posts/tooling.md) — My development setup.
 * [UI/UX Design](./posts/ui_ux.md) — Designing a clean, intuitive UI/UX.
 * ~~[Building a brand]~~ — Picking a name and registering a domain.
 
 ### 🛠️ Technical Decisions
-* [Tech Stack](./posts/tech_stack.md) — Choosing a high-performance stack for local calculations.
 * [Infrastructure Design](./posts/infra_design.md) — Architecture choices for speed and low cost.
 * ~~[Cloudflare Deployment]~~ — Configuration and edge hosting.
 
 ### 📈 Marketing & Legal
 * ~~[SEO Lessons]~~ — Ranking for Australian salary terms.
-* ~~[Open Graph]~~ — Designing for engagement and sharing.
+* ~~[Open Graph]~~ — Building for engagement and sharing.
 * [Compliance & Liability](./posts/compliance.md) — Handling financial calculation disclaimers.
 
 ### 🚀 Launch
