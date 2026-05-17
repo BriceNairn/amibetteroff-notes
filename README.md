@@ -1,12 +1,18 @@
 # AmIBetterOff.au Developer Notes
 
 
-**Public developer notes for [AmIBetterOff.au](https://amibetteroff.au)**
+**Public build log for [AmIBetterOff.au](https://amibetteroff.au)**
 A contractor vs. permanent salary calculator for the Australian market.
 
 🦆 First Portfolio / Live Production Project
 
 🛠️ Project Stats: 400+ hours of development | 🚀 Hosted on Cloudflare | 🇦🇺 Built for Aussie Professionals.
+
+<p align="center">
+  <img src="./images/amibetteroff_screenshot.png" alt="Screenshot of AmIBetterOff.au Calculator" width="500">
+</p>
+
+> *Current production UI of AmIBetterOff.au*
 
 
 ### Stack
@@ -50,6 +56,3 @@ A contractor vs. permanent salary calculator for the Australian market.
 ### 📋 Current Site Metrics
 * [Site Performance](./posts/performance.md) — Google Search Console & Cloudflare Analytics.
 * ~~[Site Analytics]~~ — A plan to further implement site interaction analytics. 
-
----
-
