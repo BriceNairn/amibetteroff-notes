@@ -4,37 +4,43 @@
 **Public developer notes for [AmIBetterOff.au](https://amibetteroff.au)**
 A contractor vs. permanent salary calculator for the Australian market.
 
+🦆 First Porfolio / Live Production Project
 
 🛠️ Project Stats: 400+ hours of development | 🚀 Hosted on Cloudflare | 🇦🇺 Built for Aussie Professionals.
 
 ---
 
-This repository documents:
+## Developer Notes
 
-- Product decisions
-- SEO learnings
-- Cloudflare deployment notes
-- UI/UX iterations
-- Salary calculator architecture
-- Performance observations
-- Feature ideas
+### ⛰️ The Journey
+* [The Why](./posts/the-why.md) — Why I built this calculator.
+* [Build 0](./posts/build-0.md) — Getting the initial MVP off the ground.
 
+### 🛠️ Technical Decisions
+* [Tech Stack](./posts/tech-stack.md) — Choosing a high-performance stack for local calculations.
+* [UI/UX Design](./posts/ui_ux.md) — Designing a clean, intuitive financial comparison view.
+* [Infrastructure Design](./posts/infrastructure_design.md) — Architecture choices for speed and low cost.
+* [Cloudflare Deployment](./posts/cloudflare.md) — Configuration and edge hosting.
+
+### 📈 Marketing & Legal
+* ~~[SEO Lessons]~~(./posts/seo-lessons.md) — Ranking for Australian salary terms.
+* ~~[Open Graph]()~~ — Designing for engagement and sharing.
+* [Compliance & Liability](./posts/compliance.md) — Handling financial calculation disclaimers.
+
+### 🚀 Launch
+* [Launch & Feedback](./posts/launch_and_feedback.md) — Driving organic search growth through Reddit.
+* ~~[Deployment mistakes]()~~ — Http vs Https.
+* ~~[Future Features]()~~ — Planned Features & Fixes.
+
+### 📋 Current Site Metrics
+* ~~[Site Performance]()~~ — Google Search Console & Cloudflare Analytics.
+* ~~[Site Analytics]()~~ — A plan to further implement site interaction analytics. 
 ---
 
-## Posts
-### Building AmIBetterOff
-- [The Why](posts/post_1_the_why.md)
-- [Build 0](posts/post_2_build_0.md)
-- [Tech Stack](posts/post_3_tech_stack.md)
-- [UI/UX Design & Development](posts/post_4_ui_ux.md)
-- [Infrastructure Design](posts/post_5_infrastructure_design.md)
-- [Liability & Review](posts/post_6_liability_and_review.md)
-- [Launch & Feedback](posts/post_7_launch_and_feedback.md)
-
-
-### SEO Lessons
-- [WIP](posts/wip.md)
-
-
-### Cloudflare deployment
-- [WIP](posts/wip.md)
+> old links
+> - [The Why](posts/the_why.md)
+> - [Build 0](posts/build_0.md)
+> - [Tech Stack](posts/tech_stack.md)
+> - [UI/UX Design & Development](posts/ui_ux.md)
+> - [Infrastructure Design](posts/infrastructure_design.md)
+> - [Liability & Review](posts/liability_and_review.md)
