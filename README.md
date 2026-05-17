@@ -8,6 +8,8 @@ A contractor vs. permanent salary calculator for the Australian market.
 
 🛠️ Project Stats: 400+ hours of development | 🚀 Hosted on Cloudflare | 🇦🇺 Built for Aussie Professionals.
 
+May 2026 Snapshot • ~2.5k Visitors • 286 Search Clicks • ~7.66k Impressions • Avg. Position: 6.7
+
 ---
 
 ## Developer Notes
