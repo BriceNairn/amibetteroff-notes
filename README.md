@@ -31,7 +31,7 @@ A contractor vs. permanent salary calculator for the Australian market.
 * [Launch & Feedback](./posts/launch.md) — Driving organic search growth through Reddit.
 * ~~[Feedback](./posts/launch.md)~~ — Feedback on launch.
 * ~~[Future Features]()~~ — Planned Features & Fixes.
-* ~~[Deployment mistakes]()~~ — Http vs Https.
+* ~~[Deployment mistakes]()~~ — Enforcing Https.
 
 ### 📋 Current Site Metrics
 * ~~[Site Performance]()~~ — Google Search Console & Cloudflare Analytics.
