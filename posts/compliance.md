@@ -1,4 +1,4 @@
-# 6 — Accessibility & Legal Liability
+# 6 — Compliance, Accessibility & Legal Liability
 ## The ‘Oh Shit’ moment
 
 
