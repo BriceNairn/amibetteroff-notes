@@ -1,4 +1,4 @@
-# 4 — Tech Stack
+# Tech Stack
 >The Dev Tools
 
 On the other end of this experience and as the project grew I now have a greater appreciation for frameworks!
